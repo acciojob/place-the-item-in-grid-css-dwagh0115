@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-}.item{
+}.holder{
     padding: 10px;
     display: grid;
     grid-template-columns: repeat(2,200px);
